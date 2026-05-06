@@ -1,0 +1,1 @@
+ratatui::prelude::Style: From<BgColorDisplay<'_, color_eyre::owo_colors::colors::White, ratatui::prelude::Style>>

@@ -1,0 +1,2 @@
+std::iter::Map<std::str::Lines<'_>, fn(&str) -> ratatui::prelude::Line<'_> {<ratatui::prelude::Line<'_> as From<&str>>::from}>
+Text<'_>: From<std::iter::Map<std::str::Lines<'_>, fn(&str) -> ratatui::prelude::Line<'_> {<ratatui::prelude::Line<'_> as From<&str>>::from}>>
